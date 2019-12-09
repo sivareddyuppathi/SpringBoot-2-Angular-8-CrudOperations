@@ -1,4 +1,4 @@
-# SpringBoot-2-Angular-8-CrudOperations
+# SpringBoot-2 + Angular-8-CrudOperations
 Spring Boot + Angular 8 CRUD Example
 
 This is a simple crud example using spring-boot(2), Angular-8 and BootStrap with MS-SQL-Server(Database)
