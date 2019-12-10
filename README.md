@@ -1,38 +1,27 @@
-# SpringBoot-2 + Angular-8-CrudOperations
-Spring Boot + Angular 8 CRUD Example
+# Angular8SpringbootClient
 
-This is a simple crud example using spring-boot(2), Angular-8 and BootStrap with MS-SQL-Server(Database)
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
 
-what are the technologies i used to develop this project..
+## Development server
 
-Server-side
-============
-    Spring Boot - 2.0.5.RELEASE
-    JDK - 1.8 or later
-    Spring Framework - 5.0.8 RELEASE
-    Hibernate - 5.2.17.Final
-    Spring Data JPA - 2+
-    
-Front end
-==========
-    Angular 8.0.0
-    Bootstrap 4
-    npm- 6.9.0
-    JQuery
-    
-Tools
-=====
-    Maven - 3.2+
-    IDE - Eclipse or Spring Tool Suite (STS) // Spring boot API development
-    Visual Studio 2017 // Angular App development
-    Angular CLI
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-steps to download and run this project... In Your Machine
+## Code scaffolding
 
-  Download this project from given link...
-  
-  Unzip the folder in that u have 2 folders like..
-  
-  1) 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-  
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
